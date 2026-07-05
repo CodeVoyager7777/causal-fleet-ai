@@ -11,7 +11,7 @@
 
 ## 🎥 Platform Demonstration
 
-<video src="https://github.com/user-attachments/assets/956e930c-2b53-46ef-a24b-abd52c7f0fa9" autoplay loop muted playsinline width="100%"></video>
+<img width="100%" alt="Platform Demonstration" src="https://github.com/user-attachments/assets/96a19b77-5c86-48c4-b009-2c7352573f3d" />
 
 **Causal Edge** is an enterprise-grade, AI-powered predictive maintenance Digital Twin platform built for industrial hardware ecosystems. Designed to solve complex real-world manufacturing and logistics challenges, this platform acts as a centralized command center. It leverages advanced causal AI to predict, isolate, and explain catastrophic hardware failures across entire fleets of vehicles or machinery in real-time before they occur.
 
